@@ -1,3 +1,3 @@
 # note-for-learning-the-BI
-updating.. \\
+updating.. \
 hope it can help you
